@@ -70,4 +70,14 @@ Used to break out of a loop.
 
 Used to skip an iteration and moves to the next iteration.
 
-##### Example 
+### Nested Loops
+
+A loop inside another loop! Inception.
+Useful for running over multi-dimensional structures, like MATRIX.
+
+#### Practice Example 1
+
+Create a right angled triangle with *
+
+## Enumerate Function
+
