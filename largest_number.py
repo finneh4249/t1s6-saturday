@@ -7,3 +7,6 @@ for number in numbers:
         largest = number
 
 print("\t The largest number is:", largest)
+
+# Non-class note: 
+# This can be completed using the max() function but I'm following along with the class for sanity.
