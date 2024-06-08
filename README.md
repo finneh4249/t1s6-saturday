@@ -35,3 +35,19 @@ Things to consider:
 Example: [guessing_game.py](guessing_game.py)
 
 ### For Loop ([for_loop.py](for_loop.py))
+
+For each item in a sequence, execute the intended steps.
+
+#### Range
+
+It's a predefined function that generates a sequence of numbers.
+Useful:
+
+- Loops for iterating a specific number of times over a sequence of numbers
+`range(start, stop, step)`
+
+`range(1, 2, 3)`
+
+#### Practice Example
+
+Finding the sum of the first 10 numbers. (1,2, ..., 10)
