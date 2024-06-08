@@ -55,3 +55,19 @@ Finding the sum of the first 10 numbers. (1,2, ..., 10)
 #### Practice Example 2 ([largest_number.py](largest_number.py))
 
 Find the largest number in the list
+
+### Loop Control Statements
+
+Used to control the flow of the program. Terminate the loop early if you want, or skip over some iteration.
+
+#### Break and Continue ([break_continue.py](break_continue.py))
+
+##### Break
+
+Used to break out of a loop.
+
+##### Continue
+
+Used to skip an iteration and moves to the next iteration.
+
+##### Example 
