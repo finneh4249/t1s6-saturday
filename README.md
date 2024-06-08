@@ -48,6 +48,10 @@ Useful:
 
 `range(1, 2, 3)`
 
-#### Practice Example
+#### Practice Example 1 ([sum_of_first_ten_numbers.py](sum_of_first_ten_numbers.py))
 
 Finding the sum of the first 10 numbers. (1,2, ..., 10)
+
+#### Practice Example 2 ([largest_number.py](largest_number.py))
+
+Find the largest number in the list
