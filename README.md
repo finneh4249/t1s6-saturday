@@ -79,5 +79,7 @@ Useful for running over multi-dimensional structures, like MATRIX.
 
 Create a right angled triangle with *
 
-## Enumerate Function
+## enumerate() function
 
+Used to access the index and the value of the elements of the list.
+Use two variables in for loop.
